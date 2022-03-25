@@ -1,5 +1,6 @@
 # miniDBG
 Example solution for the De Bruijn Graph assembly problem in BINF301. The code consists of a single Jupyter notebook with a single class: DBGraph
+
 Dependencies:
 
  - Igraph for Python https://igraph.org/python/
