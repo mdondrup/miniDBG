@@ -1,4 +1,6 @@
->seq 1
-12345678
->seq 2
-abcdefghijklmnopqrstuvwXYZ
+>abc
+abcdefghijklmn
+>abd
+abddefghijklmn
+> this may break
+the_quick_brown_fox_jumps_over_the_lazy_dog
