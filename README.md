@@ -5,7 +5,7 @@ Example solution for the De Bruijn Graph assembly problem in BINF301. The code c
 
 Try it right in your browser! No installs necessary. Ready to 'Run All' upon notebook appearing.   
 Press the launch button below to launch a session served via MyBinder:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdondrup/miniDBG/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdondrup/miniDBG/HEAD?labpath=DBG-miniassembler.ipynb)
 
 
 ------------
