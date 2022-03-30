@@ -1,0 +1,14 @@
+name: miniDBG
+channels:
+  - conda-forge
+  - default
+
+dependencies:
+  - jupyterlab>=3.2.9
+  - biopython 
+  - python-igraph
+  - cairocffi
+  - pip
+
+
+  
